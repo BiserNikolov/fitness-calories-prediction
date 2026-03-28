@@ -32,6 +32,7 @@ fitness-calories-prediction/
 │   ├── modeling.py
 │   └── evaluation.py
 ├── requirements.txt
+|---.gitignore
 └── README.md
 
 
